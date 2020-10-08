@@ -348,7 +348,7 @@
           "hash": "pjcQe5Z/oNluL+BYq3ybtw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -360,7 +360,7 @@
           "hash": "fuY4/vfhn7ojYBoqFWn7cQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -448,7 +448,7 @@
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 8,
-          "skipped_file_count": 6
+          "skipped_file_count": 8
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
