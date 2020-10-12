@@ -348,7 +348,7 @@
           "hash": "I8O6JioMePj6fHEgHQK3Dg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -357,10 +357,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/ImportKontrahenci.html",
-          "hash": "fuY4/vfhn7ojYBoqFWn7cQ=="
+          "hash": "wg2ELmuoE5dzgbSADOf7oQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
